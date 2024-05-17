@@ -2,7 +2,7 @@
 
 <div align="center"> <img src="https://raw.githubusercontent.com/iam-AManoj/iam-AManoj/main/banner-3.png"> </div>
 <h3 align="center">A passionate DevOps Engineer From India </h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+<img align="right" alt="Coding" width="400" src="[https://i0.wp.com/www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif?fit=1024%2C576&ssl=1]">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iam-AManoj&label=Profile%20views&color=0e75b6&style=flat" alt="iam-AManoj" /> </p>
 
