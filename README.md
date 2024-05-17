@@ -28,3 +28,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iam-amanoj&show_icons=true&locale=en" alt="iam-amanoj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iam-amanoj&" alt="iam-amanoj" /></p>- 
+
+#gh-dark-mode-only 
